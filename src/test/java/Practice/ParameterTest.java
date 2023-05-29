@@ -7,7 +7,7 @@ public class ParameterTest {
 	@Test
 	public void test()
 	{
-		String URL = System.getProperty("url");
+		String URL = System.getProperty("Url");
 		String ENV = System.getProperty("Env");
 		String BROWSER = System.getProperty("browser");
 	    String USERNAME = System.getProperty("username");
